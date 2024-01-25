@@ -1,5 +1,3 @@
-# DiceGameProject
-Dicee Game: A simple web app for a two-player dice game. Built with HTML, CSS, and JavaScript. Roll the dice, see the results, and find out the winner. An interactive project for learning web development basics.
 # Dicee Game
 
 Dicee Game is a simple web application that simulates a dice game for two players.
@@ -8,9 +6,18 @@ Dicee Game is a simple web application that simulates a dice game for two player
 - Building a basic HTML structure for a web page.
 - Styling the page using CSS to create an appealing layout.
 - Implementing interactive features with JavaScript.
-- Selecting And Manipulating HTML Elements Using Javascript (DOM)
+- Selecting And Manipulating HTML Elements Using Javascript (DOM).
 - Using the Document Object Model (DOM) to manipulate HTML elements dynamically.
 - Generating random numbers to simulate dice rolls.
+
+## Challenges and Solutions
+- **Challenge 1: Dynamic Dice Images**
+  - *Description:* Generating random numbers to dynamically update dice images.
+  - *Solution:* Used JavaScript to generate random numbers and update image sources accordingly.
+
+- **Challenge 2: Winner Announcement**
+  - *Description:* Displaying the winner based on the higher rolled number.
+  - *Solution:* Implemented conditional statements to determine the winner and updated the title dynamically.
 
 ## Features
 - Two players with individual dice images.
@@ -22,4 +29,3 @@ Dicee Game is a simple web application that simulates a dice game for two player
 2. Open the `index.html` file in a web browser.
 3. Click the "Refresh Me" heading to roll the dice and determine the winner.
 4. Have fun playing the Dicee Game!
-
